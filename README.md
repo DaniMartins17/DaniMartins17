@@ -8,8 +8,6 @@ Sou um **programador em desenvolvimento** e atualmente estou estudando **Python*
 
 ## 💻 Sobre Mim
 
-![Lofi Boy](https://media1.tenor.com/m/ItlVfQ5tMv0AAAAd/lofi-music-lofiartwork.gif)
-
 - 🌱 **Atualmente aprendendo**: Python, Desenvolvimento Web
 - 👯 **Buscando colaboração em**: Projetos de código aberto
 - 💬 **Fale comigo sobre**: Programação, Tecnologias emergentes
@@ -27,6 +25,14 @@ Sou um **programador em desenvolvimento** e atualmente estou estudando **Python*
 ## 🎉 Contribuições
 
 Se você estiver interessado em colaborar ou discutir ideias, fique à vontade para entrar em contato!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaniMartins17/DaniMartins17/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaniMartins17/DaniMartins17/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DaniMartins17/DaniMartins17/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ---
 
