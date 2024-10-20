@@ -2,7 +2,7 @@
 
 Sou um **programador em desenvolvimento** e atualmente estou estudando **Python**. Estou sempre buscando aprender e crescer como desenvolvedor.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=500&lines=Programador+em+Desenvolvimento;Amante+de+Python+e+Tecnologia;Sempre+aprendendo+coisas+novas!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=500&lines=Programador+em+Desenvolvimento;Amante+de+Tecnologia;Sempre+aprendendo+coisas+novas!)
 
 ---
 
@@ -13,7 +13,7 @@ Sou um **programador em desenvolvimento** e atualmente estou estudando **Python*
 - 🌱 **Atualmente aprendendo**: Python, Desenvolvimento Web
 - 👯 **Buscando colaboração em**: Projetos de código aberto
 - 💬 **Fale comigo sobre**: Programação, Tecnologias emergentes
-- 📫 **Como chegar até mim**: danielmartins080502005@gmail.com(mailto:danielmartins080502005@gmail.com)
+- 📫 **Como chegar até mim**: [danielmartins080502005@gmail.com](mailto:danielmartins080502005@gmail.com)
 - ⚡ **Fato curioso**: Eu adoro jogos, animes, séries, filmes e escutar música!
 
 ---
@@ -28,7 +28,7 @@ Sou um **programador em desenvolvimento** e atualmente estou estudando **Python*
 
 Se você estiver interessado em colaborar ou discutir ideias, fique à vontade para entrar em contato!
 
-![Snake animation](https://github.com/DaniMartins17/DaniMartins17/blob/output/github-contribution-grid-snake.svg)
+[Animation](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FPixelArt%2Fcomments%2F1ezd4zr%2Flofi_boy_fan_art%2F&psig=AOvVaw1BEuP2PG6G4N4oHSbrjFjt&ust=1729481588831000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiv0Y-DnIkDFQAAAAAdAAAAABAE)
 
 ---
 
