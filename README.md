@@ -8,7 +8,7 @@ Sou um **programador em desenvolvimento** e atualmente estou estudando **Python*
 
 ## 💻 Sobre Mim
 
-![Animação de código](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F887842514023350451%2F&psig=AOvVaw2LlyE41zvhdLqq33adhHfB&ust=1729481561446000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCJgoODnIkDFQAAAAAdAAAAABAE)
+![Lofi Boy](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F887842514023350451%2F&psig=AOvVaw2LlyE41zvhdLqq33adhHfB&ust=1729481561446000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCJgoODnIkDFQAAAAAdAAAAABAE)
 
 - 🌱 **Atualmente aprendendo**: Python, Desenvolvimento Web
 - 👯 **Buscando colaboração em**: Projetos de código aberto
